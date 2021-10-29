@@ -11,6 +11,7 @@ from openpyxl.chart import (
 from openpyxl.chart.axis import DateAxis
 
 #Define the countries that you want to obtain government yields for
+#Note these are obtained from investing.com so ensure the correct country names are used
 
 countries = ['U.S. 10Y','U.K. 10Y','China 10Y','Germany 10Y','Japan 10Y','Italy 10Y','Australia 10Y','Austria 10Y','Belgium 10Y',
              'Brazil 10Y','Canada 10Y','Chile 10Y','Croatia 10Y','Czech Republic 10Y',
