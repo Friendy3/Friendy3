@@ -108,4 +108,4 @@ ws.add_chart(c1, "A1")
 #Close the workbook
 wb.save('10y_Yields.xlsx')
 writer.close()
-openpyxl.Workbook.close('C:\\Users\\tomfr\\Documents\\Python Scripts\\10y_Yields.xlsx')
+openpyxl.Workbook.close('10y_Yields.xlsx')
